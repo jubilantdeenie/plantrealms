@@ -1,4 +1,4 @@
 
 # PlantRealms app
 
-PlantRealms will be an immersive app that utilizes A-frame to create an 360 augmented reality experience to identify wild plants that are used for food.   
+PlantRealms is an entertainment app that explores wild food plants and their uses. PlantRealms also offers an immerserve feature that utilizes A-frame to create an 360 augmented reality experience for plant education in the real world.
